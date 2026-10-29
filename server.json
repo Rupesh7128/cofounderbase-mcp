@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Rupesh7128/cofounderbase",
+  "title": "Cofounderbase: AI automation agencies",
+  "description": "Search 960+ evidence-checked AI automation agencies by need, tool, country and budget.",
+  "version": "1.0.1",
+  "websiteUrl": "https://cofounderbase.com/mcp/",
+  "repository": {
+    "url": "https://github.com/Rupesh7128/cofounderbase-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cofounderbase.com/api/mcp/"
+    }
+  ]
+}
